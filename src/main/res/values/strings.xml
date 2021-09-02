@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application02</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="signin_with_google_to_continue_using_application">SignIn with Google to continue using application.</string>
+    <string name="name">name</string>
+    <string name="email">email</string>
+</resources>
